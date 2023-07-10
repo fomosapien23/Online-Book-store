@@ -11,6 +11,7 @@ Welcome to the frontend repository of the Online Book Purchase Store! This is a 
 
 - **Shopping Cart:** Add books to the shopping cart, review the cart contents, and proceed to checkout for a seamless purchasing experience.
 
+- **User Authentication:** Sign up and log in securely to access personalized features such as order history, wishlists, and personalized recommendations.
 
 ## Technologies Used
 
