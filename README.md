@@ -23,6 +23,6 @@ Welcome to the frontend repository of the Online Book Purchase Store! This is a 
 
 To set up the Online Book Purchase Store frontend locally, follow these steps:
 
-1. Clone the repository:
+visit the site:
 
-   https://github.com/fomosapien23/Online-Book-store.git
+https://fomosapien23.github.io/Online-Book-store/
